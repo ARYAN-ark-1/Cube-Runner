@@ -1,4 +1,7 @@
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/f527e89d-5fb7-4b4f-a2fa-0fe33c8b5d36" /># Cube Runner
+<div align="center" style="display: flex; align-items: center; gap: 10px;">
+  <img width="100" alt="image" src="https://github.com/ARYAN-ark-1/Cube-Runner/blob/main/J%26R%20icon%20image.png" />
+  <h1>Cube Runner</h1>
+</div>
 
 ## Overview
 Cube Runner is an exciting 3D endless runner game developed using Unity. The player controls a cube that moves forward automatically on a narrow platform. The goal is to avoid obstacles and achieve the highest possible score. The game tests reflexes and hand-eye coordination as the player navigates through the increasingly difficult course.
@@ -59,11 +62,4 @@ Developed by: **[Your Name]**
 
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
-
-## GitHub Repository
-Feel free to contribute and check for updates on GitHub:
-[GitHub Repository](https://github.com/yourusername/cube-runner)
-
----
-Enjoy the game and challenge yourself to beat your high score!
 
