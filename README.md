@@ -58,7 +58,7 @@ Cube Runner is an exciting 3D endless runner game developed using Unity. The pla
 - The game code will be uploaded soon in the `code` section.
 
 ## Credits
-Developed by: **[Your Name]**
+Developed by: **Aryan**
 
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
